@@ -55,13 +55,20 @@ Me chamo João Pedro, tenho 26 anos e sou natural de Minas Gerais. Sou formado e
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
   <img align="left" 
-    alt="Python" 
-    title="Python"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" 
     />
           
+  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-      
+
+###
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
           
